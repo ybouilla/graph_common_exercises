@@ -20,3 +20,5 @@ grid = [
 where `"W"` stands for water, and `"L"` for land.
 
 4. Ex4. get the shortest path in a graph (Djikstra)
+
+5. Ex5. get the MST (minimum spanning tree) of a graph (showcase on Prism algo)
